@@ -8,6 +8,10 @@ site_url: https://itisenricofermi.github.io/archivio-digitale-docs/
 repo_name: ITISEnricoFermi/archivio-digitale-docs
 repo_url: https://github.com/ITISEnricoFermi/archivio-digitale-docs
 
+# Copyright
+copyright: Copyright &copy; 2019 ITIS Enrico Fermi
+
+# Configuration
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -23,7 +27,7 @@ theme:
     tabs: true
 nav:
     - Home: index.md
-    - Dashboard: dashboard.md
+    - Dashboard: dashboard/index.md
     - Documenti:
         - Crea documenti: documents/create.md
         - Cerca documenti: documents/search.md
@@ -31,6 +35,12 @@ nav:
     - Collezioni:
         - Crea collezioni: collections/create.md
         - Cerca collezioni: collections/search.md
+    - Admin:
+        - Richieste di iscrizione: admin/requests.md
+        - Invia email: admin/send.md
+        - Entità: admin/entities.md
+        - Crea utente: admin/users.create.md
+        - Cerca utenti: admin/users.search.md
 
 # Customization
 extra:
