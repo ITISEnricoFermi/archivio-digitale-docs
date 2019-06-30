@@ -35,4 +35,29 @@
      <lastmod>2019-07-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    <url>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/requests/</loc>
+     <lastmod>2019-07-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/send/</loc>
+     <lastmod>2019-07-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/entities/</loc>
+     <lastmod>2019-07-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/users.create/</loc>
+     <lastmod>2019-07-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/users.search/</loc>
+     <lastmod>2019-07-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
