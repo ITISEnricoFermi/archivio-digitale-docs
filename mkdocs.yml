@@ -1,0 +1,17 @@
+site_name: Archivio Digitale
+theme:
+  name: null
+  custom_dir: mkdocs-material/material
+  language: it
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: 'images/logo.svg'
+  feature:
+    tabs: true
+nav:
+    - Home: index.md
+    - About: about.md
