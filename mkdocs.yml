@@ -1,4 +1,13 @@
+# Project information
 site_name: Archivio Digitale
+site_description: Documentazione dell'Archivio Digitale
+site_author: Riccardo Sangiorgio
+site_url: https://itisenricofermi.github.io/archivio-digitale-docs/
+
+# Repository
+repo_name: ITISEnricoFermi/archivio-digitale-docs
+repo_url: https://github.com/ITISEnricoFermi/archivio-digitale-docs
+
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -9,9 +18,25 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: 'images/logo.svg'
+  logo: images/logo.svg
   feature:
     tabs: true
 nav:
     - Home: index.md
-    - About: about.md
+    - Dashboard: dashboard.md
+    - Documenti:
+        - Crea documenti: documents/create.md
+        - Cerca documenti: documents/search.md
+        - Trasferisci documenti: documents/transfer.md
+    - Collezioni:
+        - Crea collezioni: collections/create.md
+        - Cerca collezioni: collections/search.md
+
+# Customization
+extra:
+  manifest: manifest.webmanifest
+  social:
+    - type: github
+      link: https://github.com/ITISEnricoFermi
+    - type: hashtag
+      link: https://archivio.itisfermi.edu.it
