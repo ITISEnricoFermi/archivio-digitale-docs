@@ -3,6 +3,7 @@ site_name: Archivio Digitale
 site_description: Documentazione dell'Archivio Digitale.
 site_author: Riccardo Sangiorgio
 site_url: https://itisenricofermi.github.io/archivio-digitale-docs/
+base_url: /archivio-digitale-docs/
 
 # Repository
 repo_name: ITISEnricoFermi/archivio-digitale-docs
