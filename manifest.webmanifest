@@ -1,0 +1,9 @@
+{
+    "name": "Documentazione Archivio Digitale",
+    "short_name": "Archivio Doc",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#3f51b5",
+    "background_color": "#3f51b5",
+    "description": "Documentazione per l'Archivio Digitale."
+  }
