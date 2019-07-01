@@ -1,5 +1,5 @@
 # Dashboard
-
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 La Dashboard è il luogo in cui poter rimanere aggiornato sugli ultimi documenti caricati sulla piattaforma.
 La pagina è suddivisa in due sezioni: i Documenti e l'Anteprima.
 
@@ -9,7 +9,7 @@ Nella sezione Documenti sono presenti gli ultimi documenti caricati nell'Archivi
 Il primo documento corrisponde all'ultimo inserito.
 
 - È possibile scorrere tra i documenti meno recenti cliccando sul pulsante **Mostra Documenti Meno Recenti (:far fa-caret-square-down:)**.
-- È possibile caricare i nuovi documenti pubblicati cliccando sul pulsante **Carica nuovi documenti (:fas fa-sync-alt:)**.
+- È possibile caricare i nuovi documenti pubblicati cliccando sul pulsante **Carica Nuovi Documenti (:fas fa-sync-alt:)**.
 
     ### Documento
 

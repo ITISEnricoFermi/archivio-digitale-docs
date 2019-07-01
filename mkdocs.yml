@@ -37,7 +37,7 @@ nav:
         - Cerca collezioni: collections/search.md
     - Admin:
         - Richieste di iscrizione: admin/requests.md
-        - Invia email: admin/send.md
+        - Invia email: admin/sendmail.md
         - Entità: admin/entities.md
         - Crea utente: admin/users.create.md
         - Cerca utenti: admin/users.search.md

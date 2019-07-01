@@ -1,5 +1,8 @@
 # Crea documenti
 
+<img src="/images/sections/documents/create.png" alt="Crea documenti" style="box-shadow: 0 .25rem .75rem rgba(0,0,0,.05); border: 1px solid #E9EBEE; border-radius: 0.3px;"/>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 Nel menù Servizi della sezione Documenti è possibile selezionare lo strumento Crea documenti.
 Nella sezione Crea Documenti è possibile caricare nella piattaforma un nuovo documento, descrivendolo con i vari campi messi a disposizione.
 
