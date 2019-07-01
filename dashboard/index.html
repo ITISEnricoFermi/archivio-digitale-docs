@@ -93,6 +93,10 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
+      <a href="#dashboard" tabindex="1" class="md-skip">
+        Vai al contenuto
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -332,10 +336,61 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Dashboard
+      </label>
     
     <a href="./" title="Dashboard" class="md-nav__link md-nav__link--active">
       Dashboard
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Indice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#documenti" title="Documenti" class="md-nav__link">
+    Documenti
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#documento" title="Documento" class="md-nav__link">
+    Documento
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anteprima" title="Anteprima" class="md-nav__link">
+    Anteprima
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -563,6 +618,57 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Indice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#documenti" title="Documenti" class="md-nav__link">
+    Documenti
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#documento" title="Documento" class="md-nav__link">
+    Documento
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anteprima" title="Anteprima" class="md-nav__link">
+    Anteprima
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -571,9 +677,34 @@
                   <a href="https://github.com/ITISEnricoFermi/archivio-digitale-docs/edit/master/docs/dashboard/index.md" title="Modifica" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Dashboard</h1>
-                
-                
+                <h1 id="dashboard">Dashboard</h1>
+<p>La Dashboard è il luogo in cui poter rimanere aggiornato sugli ultimi documenti caricati sulla piattaforma.
+La pagina è suddivisa in due sezioni: i Documenti e l'Anteprima.</p>
+<h2 id="documenti">Documenti</h2>
+<p>Nella sezione Documenti sono presenti gli ultimi documenti caricati nell'Archivio.
+Il primo documento corrisponde all'ultimo inserito.</p>
+<ul>
+<li>È possibile scorrere tra i documenti meno recenti cliccando sul pulsante <strong>Mostra Documenti Meno Recenti (<i class="far fa-caret-square-down"></i>)</strong>.</li>
+<li>
+<p>È possibile caricare i nuovi documenti pubblicati cliccando sul pulsante <strong>Carica nuovi documenti (<i class="fas fa-sync-alt"></i>)</strong>.</p>
+<h3 id="documento">Documento</h3>
+<p>Nel Documento sono presenti Titolo, Data di Pubblicazione e la foto profilo dell'Autore.
+In altro a destra è presente un menù a tendina (<i class="fas fa-ellipsis-h"></i>), da dove è possibile effettuare le seguenti azioni:</p>
+<ul>
+<li>Modificare il documento (se si detengono le autorizazzioni).</li>
+<li>Scaricare il documento.</li>
+<li>Visualizzare il documento.</li>
+</ul>
+</li>
+</ul>
+<h2 id="anteprima">Anteprima</h2>
+<p>Nella sezione Anteprima è possibile visualizzare ulteriori informazioni sul documento selezionato:</p>
+<ul>
+<li>Nome dell'Autore per esteso e i suoi privilegi.</li>
+<li>Descrizione del Documento.</li>
+<li>Categorie del documento (es. Specializzazione, Materia, Classe, Sezione, ecc.).</li>
+<li>Collezioni in cui è presente e i relativi documenti correlati.</li>
+</ul>
                 
                   
                 
