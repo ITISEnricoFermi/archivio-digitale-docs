@@ -1,6 +1,6 @@
 # Project information
 site_name: Archivio Digitale
-site_description: Documentazione dell'Archivio Digitale
+site_description: Documentazione dell'Archivio Digitale.
 site_author: Riccardo Sangiorgio
 site_url: https://itisenricofermi.github.io/archivio-digitale-docs/
 
@@ -41,6 +41,8 @@ nav:
         - Entità: admin/entities.md
         - Crea utente: admin/users.create.md
         - Cerca utenti: admin/users.search.md
+    - Profilo: profile/index.md
+    - Impostazioni: settings/index.md
 
 # Customization
 extra:

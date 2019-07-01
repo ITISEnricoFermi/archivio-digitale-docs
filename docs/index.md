@@ -1,5 +1,7 @@
 # Archivio Digitale
 
+<img src="images/mockup.png" alt="Archivio Digitale" />
+
 ## Storia
 
 ### 1. Quando è iniziato il progetto?
