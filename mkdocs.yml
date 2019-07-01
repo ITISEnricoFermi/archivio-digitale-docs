@@ -52,3 +52,7 @@ extra:
       link: https://github.com/ITISEnricoFermi
     - type: hashtag
       link: https://archivio.itisfermi.edu.it
+
+# Extensions
+markdown_extensions:
+    - fontawesome_markdown
