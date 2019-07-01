@@ -8,8 +8,8 @@ La pagina è suddivisa in due sezioni: i Documenti e l'Anteprima.
 Nella sezione Documenti sono presenti gli ultimi documenti caricati nell'Archivio.
 Il primo documento corrisponde all'ultimo inserito.
 
-- È possibile scorrere tra i documenti meno recenti cliccando sul pulsante **Mostra Documenti Meno Recenti (:far fa-caret-square-down:)**.
-- È possibile caricare i nuovi documenti pubblicati cliccando sul pulsante **Carica Nuovi Documenti (:fas fa-sync-alt:)**.
+- È possibile scorrere tra i documenti meno recenti cliccando sul pulsante *Mostra Documenti Meno Recenti (:far fa-caret-square-down:)*.
+- È possibile caricare i nuovi documenti pubblicati cliccando sul pulsante *Carica Nuovi Documenti (:fas fa-sync-alt:)*.
 
     ### Documento
 
