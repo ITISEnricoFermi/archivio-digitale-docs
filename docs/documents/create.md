@@ -20,6 +20,6 @@ Nella sezione [Crea documenti](/documents/create) è possibile caricare nella pi
     - **Per Materia:** Il documento è accessibile solo agli utenti registrati e che hanno tra le Autorizzazioni la Materia scelta per il Documento ed è modificabile dagli stessi.
 - **Box Seleziona File (*):** Per selezionare un file è possibile cliccare sul box oppure trascinare un file al suo interno.
 
-Una volta compilati i dati richiesti, per caricare il documento è necessario cliccare sul pulsante *Crea Documento (:fas fa-edit:)* e attendere il completamento dell'operazione.
+Una volta compilati i campi richiesti, per caricare il documento è necessario cliccare sul pulsante *Crea Documento (:fas fa-edit:)* e attendere il completamento dell'operazione.
 
 *(\*) I campi sono obbligatori.*
