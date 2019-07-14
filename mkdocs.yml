@@ -42,7 +42,9 @@ nav:
         - Crea utente: admin/users.create.md
         - Cerca utenti: admin/users.search.md
     - Profilo: profile/index.md
-    - Impostazioni: settings/index.md
+    - Impostazioni:
+        - Account: settings/account.md
+        - Autenticazione: settings/authentication.md
 
 # Customization
 extra:
