@@ -263,13 +263,16 @@
 
       
         
-  <li class="md-tabs__item">
-    
-      <a href="../../settings/" title="Impostazioni" class="md-tabs__link">
-        Impostazioni
-      </a>
-    
-  </li>
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../settings/account/" title="Impostazioni" class="md-tabs__link">
+          Impostazioni
+        </a>
+      
+    </li>
+  
 
       
     </ul>
@@ -559,10 +562,46 @@
       
 
 
-  <li class="md-nav__item">
-    <a href="../../settings/" title="Impostazioni" class="md-nav__link">
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
       Impostazioni
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Impostazioni
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../settings/account/" title="Account" class="md-nav__link">
+      Account
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../settings/authentication/" title="Autenticazione" class="md-nav__link">
+      Autenticazione
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -603,14 +642,14 @@
 Nella sezione <a href="/documents/create">Crea documenti</a> è possibile caricare nella piattaforma un nuovo documento, descrivendolo con i vari campi messi a disposizione.</p>
 <ul>
 <li><strong>Titolo (*):</strong> Il titolo del documento. Quando viene selezionato un file nel Box Seleziona File, il campo viene automaticamente compilato con il nome dello stesso.</li>
-<li><strong>Descrizione:</strong>: Una descrizione più approfondita del documento.</li>
+<li><strong>Descrizione:</strong> Una descrizione più approfondita del documento.</li>
 <li><strong>Tipo (*):</strong> Il tipo descrive la destinazione d'uso del documento.</li>
 <li><strong>Specializzazione (*):</strong> L'indirizzo di studio pertinente al documento.</li>
 <li><strong>Materia (*):</strong> La materia pertinente al documento.</li>
 <li><strong>Classe:</strong> Classe a cui è destinato il documento (es. tutte le classi classi terze).</li>
 <li><strong>Sezione:</strong> Sezione a cui è destinato il documento (es. il corso A, B, C, ecc.).</li>
 <li><strong>Visibilità (*):</strong> La Visibilità del documento si riferisce alla possibilità di rendere pubblico o meno il documento. I valori possibili sono tre:<ul>
-<li><strong>Pubblico (default):</strong>: Il documento è accessibile pubblicamente, ma modificabile solo dagli utenti registrati.</li>
+<li><strong>Pubblico (default):</strong> Il documento è accessibile pubblicamente, ma modificabile solo dagli utenti registrati.</li>
 <li><strong>Area Riservata:</strong> Il documento è accessibile solo dagli utenti registrati e modificabile dagli stessi.</li>
 <li><strong>Per Materia:</strong> Il documento è accessibile solo agli utenti registrati e che hanno tra le Autorizzazioni la Materia scelta per il Documento ed è modificabile dagli stessi.</li>
 </ul>

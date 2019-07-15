@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/dashboard/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/documents/create/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/documents/search/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/documents/transfer/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/collections/create/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/collections/search/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/requests/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/sendmail/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/entities/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/users.create/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/admin/users.search/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://itisenricofermi.github.io/archivio-digitale-docs/profile/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/settings/</loc>
-     <lastmod>2019-07-12</lastmod>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/settings/account/</loc>
+     <lastmod>2019-07-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://itisenricofermi.github.io/archivio-digitale-docs/settings/authentication/</loc>
+     <lastmod>2019-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
