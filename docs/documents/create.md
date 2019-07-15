@@ -8,14 +8,14 @@ Nel menù Servizi della sezione Documenti è possibile selezionare lo strumento 
 Nella sezione [Crea documenti](/documents/create) è possibile caricare nella piattaforma un nuovo documento, descrivendolo con i vari campi messi a disposizione.
 
 - **Titolo (*):** Il titolo del documento. Quando viene selezionato un file nel Box Seleziona File, il campo viene automaticamente compilato con il nome dello stesso.
-- **Descrizione:**: Una descrizione più approfondita del documento.
+- **Descrizione:** Una descrizione più approfondita del documento.
 - **Tipo (*):** Il tipo descrive la destinazione d'uso del documento.
 - **Specializzazione (*):** L'indirizzo di studio pertinente al documento.
 - **Materia (*):** La materia pertinente al documento.
 - **Classe:** Classe a cui è destinato il documento (es. tutte le classi classi terze).
 - **Sezione:** Sezione a cui è destinato il documento (es. il corso A, B, C, ecc.).
 - **Visibilità (*):** La Visibilità del documento si riferisce alla possibilità di rendere pubblico o meno il documento. I valori possibili sono tre:
-    - **Pubblico (default):**: Il documento è accessibile pubblicamente, ma modificabile solo dagli utenti registrati.
+    - **Pubblico (default):** Il documento è accessibile pubblicamente, ma modificabile solo dagli utenti registrati.
     - **Area Riservata:** Il documento è accessibile solo dagli utenti registrati e modificabile dagli stessi.
     - **Per Materia:** Il documento è accessibile solo agli utenti registrati e che hanno tra le Autorizzazioni la Materia scelta per il Documento ed è modificabile dagli stessi.
 - **Box Seleziona File (*):** Per selezionare un file è possibile cliccare sul box oppure trascinare un file al suo interno.
